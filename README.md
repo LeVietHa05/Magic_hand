@@ -1,4 +1,4 @@
-# Vòng cổ cho pet
+# Bàn tay ma thuật 
 ## setup
 - clone reposity này về
 - mở terminal, dẫn đến project
